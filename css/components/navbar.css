@@ -1,0 +1,36 @@
+
+
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 65px;
+  padding: 0 15px;
+}
+
+.navbar > p {
+  flex-grow: 1;
+  padding-left: 30px;
+  font-size: 30px;
+}
+
+.navbar img {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.navbar .list .real-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar li {
+  padding: 15px;
+}
+
+.navbar li a {
+  color: white;
+  font-size: 20px;
+}

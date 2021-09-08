@@ -1,0 +1,23 @@
+@import url(./components/banner.css);
+@import url(./components/card.css);
+@import url(./components/footer.css);
+@import url(./components/navbar.css);
+
+body {
+  margin: unset;
+  background-color: rgb(56, 53, 53);
+  font-family: 'Indie Flower', cursive;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: large;
+}
+
+ul {
+  list-style-type: none;
+}
